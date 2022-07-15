@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Petar Bonchev -- convertobonchev@gmail,com  QA
 
 # THANKS
 
